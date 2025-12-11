@@ -6,9 +6,6 @@ public class Helloworld {
 
     public static void main(String[] args) {
 
-        //bharath
-
-
         RestAssured
                 .given().baseUri("https://google.com").log().all()
                 .when().get()
