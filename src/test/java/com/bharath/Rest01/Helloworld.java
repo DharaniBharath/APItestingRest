@@ -1,4 +1,4 @@
-package com.bharath;
+package com.bharath.Rest01;
 
 import io.restassured.RestAssured;
 
