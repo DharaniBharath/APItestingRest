@@ -80,13 +80,5 @@ public class APITesting027_RestAssured_TestNG_AssertJ_Assertions {
         //        String s2 = " "; //Blank
 
 
-
-
-
-
-
-
-
-
     }
 }
